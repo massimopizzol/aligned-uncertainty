@@ -1,0 +1,7 @@
+database,name,amount,unit,uncertainty type,loc,scale,minimum,maximum,group,formula
+ALIGNED-biob-prod-dummy,water_content,0.4,,4,,,0.36,0.44,activity_group
+ALIGNED-biob-prod-dummy,dry_mass_for_manufacturing,0.3,kg,4,,,0.27,0.33,activity_group
+ALIGNED-biob-prod-dummy,manufacturing_efficiency,0.9,,4,,,0.81,0.99,activity_group
+ALIGNED-biob-prod-dummy,running_electricity,0.1,kWh,4,,,0.09,0.11,activity_group
+ALIGNED-biob-prod-dummy,chemical_constant,0.5,kg,4,,,0.45,0.55,activity_group
+ALIGNED-biob-prod-dummy,reactor_efficiency,0.6,,4,,,0.54,0.66,activity_group

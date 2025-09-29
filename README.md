@@ -40,10 +40,10 @@ Included Notebooks:
 ## Contact & info
 - Massimo Pizzol (massimo@plan.aau.dk)
 - Ning An (ningan@plan.aau.dk)
-- Rebecca Belfiore (rebecca.belfiore1@gmail.com)
+- Rebecca Belfiore (belfiore@insa-toulouse.fr)
 
 ## Funding
 
-This work was carried out within Work Package 1: Shared modelling framework and learnings, Task 1.2: Framework for foreground life cycle inventory of bio-based sectors, of the ALIGNED project [wwww.alignedproject.eu](wwww.alignedproject.eu), Horizon Europe grant agreement N° 101059430 [^1].
+This work was carried out within Work Package 1 – Shared modelling framework and learnings, Task 1.4 – Framework for Interpreting uncertainty, of the ALIGNED project [wwww.alignedproject.eu](wwww.alignedproject.eu), Horizon Europe grant agreement N° 101059430 [^1].
 
 [^1]: _Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them._
